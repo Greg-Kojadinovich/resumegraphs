@@ -1,2 +1,2 @@
 # resumegraphs
-A notebook explaining my current studies and projects. 
+Jupyter notebooks explaining my current studies and projects
